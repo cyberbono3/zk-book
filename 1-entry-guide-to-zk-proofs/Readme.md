@@ -72,7 +72,7 @@ Result: The prover sends a tiny proof that convinces the verifier they know a va
 
 **General‐purpose provable computation**: Verifying arbitrary programs without revealing data.
 
-**ZK in machine learning**: Confirming model training on private datasets.
+**ZK in machine learning**: Confirming model training on private datasets. Click [here](https://world.org/blog/engineering/intro-to-zkml#machine-learning) for more information
 
 **Content authenticity & compliance**: Certifying when and how a photo was taken or a transaction complies with regulations.
 
