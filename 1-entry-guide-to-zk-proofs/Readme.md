@@ -60,7 +60,7 @@ Result: The prover sends a tiny proof that convinces the verifier they know a va
 
 **Private digital cash**: Zcash shielded transaction & Tornado Cash mixer
 
-**Anonymous signaling & voting**: Systems like Semaphore let you prove membership in a group or cast a ballot without linking to your identity.
+**Anonymous signaling & voting**: Systems like [Semaphore](https://semaphore.pse.dev) let you prove membership in a group or cast a ballot without linking to your identity.
 
 **ZK rollups & zk-EVMs**: Layer-2 solutions (Loopring, zkSync, Polygon zkEVM) bundle many transactions off-chain and post a single proof on Ethereum, greatly reducing fees and congestion.
 
